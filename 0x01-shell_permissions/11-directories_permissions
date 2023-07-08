@@ -1,2 +1,2 @@
 #!/bin/bash
-chom -R ugo+x .
+chomd -R ugo+X .
